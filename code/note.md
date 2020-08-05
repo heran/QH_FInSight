@@ -28,3 +28,8 @@ from scipy.stats import ks_2samp
 from sklearn import metrics
 from eda_kit import conditional_entropy,roc_auc_score,auc
 ```
+
+#EDA
+* eda 部分在eda.ipynb
+* eda 里面的代码部分来源于： https://www.kesci.com/home/project/59e74d916d213335f38d7f72 的XGB_B
+* XGB_B.ipynb GBDT_B.py A_B_gbdt.py A_B_lgb.py来源于： https://www.kesci.com/home/project/59e74d916d213335f38d7f72
