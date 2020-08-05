@@ -16,7 +16,6 @@ sys.path.append(os.getcwd())
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-# import thinkstats2
 import math
 import seaborn as sns
 from sklearn.preprocessing import KBinsDiscretizer
